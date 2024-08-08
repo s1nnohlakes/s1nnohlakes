@@ -6,19 +6,19 @@
 
 ###
 
-<h1 align="left">Hey there! What's up? 👋</h1>
+<h1 align="center">Hey there! What's up? 👋</h1>
 
 ###
 
-<p align="left">My name is MGIsHere (s1nnohlakes), a Junior Developer from the Philippines 🇵🇭<br><br>Welcome to my GitHub Profile! Here you'll find my latest repositories and commit activities / contributions.</p>
+<p align="center">My name is MGIsHere (s1nnohlakes), a Junior Developer from the Philippines 🇵🇭<br><br>Welcome to my GitHub Profile! Here you'll find my latest repositories and commit activities / contributions.</p>
 
 ###
 
-<h2 align="left">I code / develop with 🍥</h2>
+<h2 align="center">I code / develop with 🍥</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -36,28 +36,14 @@
 
 ###
 
-<h2 align="left">Profile Stats 📊</h2>
+<h2 align="center">Profile Stats 📊</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1nnohlakes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=s1nnohlakes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=s1nnohlakes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=s1nnohlakes&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=s1nnohlakes&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
-
-<!--
-**s1nnohlakes/s1nnohlakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
