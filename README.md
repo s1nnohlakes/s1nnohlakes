@@ -12,7 +12,6 @@
 ![sql](https://img.shields.io/static/v1?logo=sqlite&label=&message=sql&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![vscode](https://img.shields.io/static/v1?logo=vscodium&label=&message=vscode&color=36465D&logoColor=AAA&style=flat-square)
 ![netbeans](https://img.shields.io/static/v1?logo=apachenetbeanside&label=&message=netbeans&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 ![xampp](https://img.shields.io/static/v1?logo=xampp&label=&message=xampp&color=36465D&logoColor=AAA&style=flat-square)
