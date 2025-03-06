@@ -8,12 +8,15 @@
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
 ![nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=nodejs&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
+![java](https://img.shields.io/static/v1?logo=openjdk&label=&message=java&color=36465D&logoColor=AAA&style=flat-square)
+![sql](https://img.shields.io/static/v1?logo=sqlite&label=&message=sql&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![vscode](https://img.shields.io/static/v1?logo=vscodium&label=&message=vscode&color=36465D&logoColor=AAA&style=flat-square)
 ![netbeans](https://img.shields.io/static/v1?logo=apachenetbeanside&label=&message=netbeans&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 ![xampp](https://img.shields.io/static/v1?logo=xampp&label=&message=xampp&color=36465D&logoColor=AAA&style=flat-square)
+![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
 **High School Student** &#12299;_focusing on my studies, availability is limited_
