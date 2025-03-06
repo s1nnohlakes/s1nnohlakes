@@ -13,9 +13,10 @@
 ![vscode](https://img.shields.io/static/v1?logo=vscodium&label=&message=vscode&color=36465D&logoColor=AAA&style=flat-square)
 ![netbeans](https://img.shields.io/static/v1?logo=apachenetbeanside&label=&message=netbeans&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![xampp](https://img.shields.io/static/v1?logo=xampp&label=&message=xampp&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**High School Student** &#12299;_focusing on my studies, which includes programming_
+**High School Student** &#12299;_focusing on my studies, I may have limited availability_
 <br/>
 **Junior Developer** &#12299;_currently learning a variety of languages such as Python and HTML5_
 
@@ -27,6 +28,9 @@
 <a href="https://www.instagram.com/s1nnohlakes/">
   <img align="left" alt="MGIsHere's Instagram" width="20px" src="https://cdn.simpleicons.org/instagram/495f7e" />
 </a>
-<a href="https://www.tiktok.com/@sinn0hlakes">
+<a href="https://www.tiktok.com/@s1nn0hlakes">
   <img align="left" alt="MGIsHere's TikTok" width="20px" src="https://cdn.simpleicons.org/tiktok/495f7e" />
+</a>
+<a href="https://youtube.com/@s1nnohlakes">
+  <img align="left" alt="MGIsHere's YouTube" width="20px" src="https://cdn.simpleicons.org/youtube/495f7e" />
 </a>
