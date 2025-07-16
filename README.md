@@ -15,9 +15,7 @@
 ![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-**High School Student** &#12299;_focusing on my studies, availability is limited_
-<br/>
-**Junior Developer** &#12299;_currently learning a variety of programming languages_
+Junior Developer • Computer Science Student • From the Philippines 🇵🇭
 
 ----
 
