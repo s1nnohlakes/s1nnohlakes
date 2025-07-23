@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m MGIsHere!
 
+🔗 Learn more about me: [s1nnohlakes.github.io](https://s1nnohlakes.github.io)
+
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
@@ -14,8 +16,6 @@
 ![xampp](https://img.shields.io/static/v1?logo=xampp&label=&message=xampp&color=36465D&logoColor=AAA&style=flat-square)
 ![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-
-🔗 Learn more about me: https://s1nnohlakes.github.io
 
 ----
 
