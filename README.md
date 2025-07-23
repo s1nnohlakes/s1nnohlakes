@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m MGIsHere!
 
-🔗 Learn more about me: [s1nnohlakes.github.io](https://s1nnohlakes.github.io)
+🔗 [ᴄʟɪᴄᴋ ᴛᴏ ʟᴇᴀʀɴ ᴍᴏʀᴇ](https://s1nnohlakes.github.io)
 
 ----
 
