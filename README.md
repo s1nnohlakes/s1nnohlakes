@@ -1,11 +1,12 @@
 ### 👋 Hi, I’m MGIsHere!
 
-🔗 [Click Me To Learn More...](https://s1nnohlakes.github.io)
+![portfolio](https://img.shields.io/static/v1?logo=hackthebox&label=&message=portfolio:&color=111&logoColor=AAA&style=flat-square&link=https://s1nnohlakes.github.io/)
+![website](https://img.shields.io/static/v1?label=&message=s1nnohlakes.github.io&color=36465D&logoColor=AAA&style=flat-square&link=https://s1nnohlakes.github.io/)
 
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html&color=36465D&logoColor=AAA&style=flat-square&link=)
+![html5](https://img.shields.io/static/v1?logo=html5&label=&message=html&color=36465D&logoColor=AAA&style=flat-square)
 ![css](https://img.shields.io/static/v1?logo=css&label=&message=css&color=36465D&logoColor=AAA&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
