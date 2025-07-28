@@ -24,11 +24,17 @@
 <a href="https://x.com/sinn0hlakes">
   <img align="left" alt="MGIsHere's X Profile" width="20px" src="https://cdn.simpleicons.org/x/495f7e" />
 </a>
-<a href="https://www.instagram.com/s1nnohlakes/">
+<a href="https://www.instagram.com/s1nnohlakes">
   <img align="left" alt="MGIsHere's Instagram" width="20px" src="https://cdn.simpleicons.org/instagram/495f7e" />
 </a>
 <a href="https://www.tiktok.com/@s1nn0hlakes">
   <img align="left" alt="MGIsHere's TikTok" width="20px" src="https://cdn.simpleicons.org/tiktok/495f7e" />
+</a>
+<a href="https://open.spotify.com/user/vdc22r9bskz3f27iqdggrqjf4">
+  <img align="left" alt="MGIsHere's YouTube" width="20px" src="https://cdn.simpleicons.org/spotify/495f7e" />
+</a>
+<a href="https://steamcommunity.com/id/s1nnohlakes">
+  <img align="left" alt="MGIsHere's YouTube" width="20px" src="https://cdn.simpleicons.org/steam/495f7e" />
 </a>
 <a href="https://youtube.com/@s1nnohlakes">
   <img align="left" alt="MGIsHere's YouTube" width="20px" src="https://cdn.simpleicons.org/youtube/495f7e" />
